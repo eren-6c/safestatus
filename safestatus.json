@@ -1,0 +1,22 @@
+{
+  "sniperstatus": {
+    "text": "Safe",
+    "color": "#FF5733"
+  },
+  "aimbotstatus": {
+    "text": "Safe",
+    "color": "#28B463"
+  },
+  "locationstatus": {
+    "text": "Safe",
+    "color": "#5DADE2"
+  },
+  "emulatorstatus": {
+    "text": "Giving Sister",
+    "color": "#DC143C"
+  },
+  "othersstatus": {
+    "text": "Safe",
+    "color": "#34495E"
+  }
+}
