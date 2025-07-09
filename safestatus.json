@@ -1,7 +1,7 @@
 {
   "sniperstatus": {
-    "text": "Safe",
-    "color": "#1e90ff"
+    "text": "Risk",
+    "color": "#DC143C"
   },
   "aimbotstatus": {
     "text": "Safe",
@@ -12,7 +12,7 @@
     "color": "#1e90ff"
   },
   "emulatorstatus": {
-    "text": "Giving Sister",
+    "text": "Risk",
     "color": "#DC143C"
   },
   "othersstatus": {
