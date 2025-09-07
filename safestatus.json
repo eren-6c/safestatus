@@ -12,8 +12,8 @@
     "color": "#1e90ff"
   },
   "emulatorstatus": {
-    "text": "Risk",
-    "color": "#DC143C"
+   "text": "Safe",
+    "color": "#1e90ff"
   },
   "othersstatus": {
     "text": "Safe",
