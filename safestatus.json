@@ -1,10 +1,10 @@
 {
   "sniperstatus": {
-    "text": "Risk - Don't Use",
+    "text": "Risk",
     "color": "#DC143C"
   },
   "aimbotstatus": {
-     "text": "Risk - Don't Use",
+     "text": "Risk",
     "color": "#DC143C"
   },
   "locationstatus": {
@@ -12,11 +12,11 @@
     "color": "#1e90ff"
   },
   "emulatorstatus": {
-    "text": "Risk - Don't Use",
+    "text": "Risk",
     "color": "#DC143C"
   },
   "othersstatus": {
-    "text": "Risk - Don't Use",
+    "text": "Risk",
     "color": "#DC143C"
   }
 }
