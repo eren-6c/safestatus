@@ -1,19 +1,19 @@
 {
   "sniperstatus": {
-    "text": "Risk",
-    "color": "#DC143C"
+     "text": "Safe",
+    "color": "#1e90ff"
   },
   "aimbotstatus": {
-     "text": "Risk",
-    "color": "#DC143C"
+  "text": "Safe",
+    "color": "#1e90ff"
   },
   "locationstatus": {
   "text": "Safe",
     "color": "#1e90ff"
   },
   "emulatorstatus": {
-    "text": "Risk",
-    "color": "#DC143C"
+   "text": "Safe",
+    "color": "#1e90ff"
   },
   "othersstatus": {
     "text": "Risk",
